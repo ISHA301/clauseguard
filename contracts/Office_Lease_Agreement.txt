@@ -1,0 +1,31 @@
+COMMERCIAL OFFICE LEASE AGREEMENT (SYNTHETIC - DEMO ONLY)
+
+Contract ID: CG-2024-002
+Landlord: Premier Properties LLC
+Tenant: Acme Business Ltd.
+Property: Suite 500, 123 Business Ave, Chicago IL
+
+1. LEASE TERM
+Start Date: March 1, 2024
+End Date: February 28, 2027
+Total Term: 36 months
+
+2. AUTO-RENEWAL
+This lease will automatically renew for 12 months unless tenant provides
+written notice of non-renewal at least 180 days before expiration.
+Notice deadline: August 31, 2026.
+Failure to notify results in automatic renewal at 5% increased rent.
+
+3. MONTHLY RENT
+Base rent: $25,000 per month
+Annual increase: 3% per year
+Year 2 rent: $25,750
+Year 3 rent: $26,522
+
+4. EARLY TERMINATION
+Early exit penalty: 6 months base rent = $150,000 USD
+Requires 90 days written notice before early exit.
+
+5. TENANT OBLIGATIONS
+Tenant responsible for all interior maintenance.
+Must carry $2M general liability insurance at all times.

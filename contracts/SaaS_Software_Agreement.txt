@@ -1,0 +1,30 @@
+SOFTWARE AS A SERVICE AGREEMENT (SYNTHETIC - DEMO ONLY)
+
+Contract ID: CG-2024-001
+Vendor: TechCorp Solutions Inc.
+Client: Acme Business Ltd.
+Effective Date: January 1, 2024
+
+1. TERM AND RENEWAL
+This Agreement shall commence on January 1, 2024 and continue for 12 months.
+AUTO-RENEWAL CLAUSE: This contract will automatically renew for successive 
+one-year terms unless written notice of termination is provided by either 
+party no less than 90 days prior to the end of the current term.
+Next renewal date: January 1, 2025.
+Notice deadline: October 3, 2024.
+
+2. PAYMENT TERMS
+Annual fee: $120,000 USD payable in advance.
+Late payment penalty: 1.5% per month on outstanding balances.
+
+3. PENALTIES AND TERMINATION
+Early termination penalty: 6 months remaining contract value.
+Estimated early exit cost: $60,000 USD.
+
+4. VENDOR OBLIGATIONS
+Vendor must maintain 99.9% uptime SLA.
+Breach of SLA results in service credits of 10% monthly fee per incident.
+
+5. DATA SECURITY
+Vendor must comply with SOC2 Type II standards.
+Data breach notification required within 72 hours.
