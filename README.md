@@ -47,7 +47,6 @@ Retrieves grounded contract context with citations
 Structured risk report — grounded in actual contract text
 ```
 
-![ClauseGuard Architecture](architecture.png)
 
 ---
 
